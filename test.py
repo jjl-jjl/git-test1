@@ -3,6 +3,6 @@
 
 
 
-print("git itnint test1 - python")
+print("git init test1 - python")
 
 
